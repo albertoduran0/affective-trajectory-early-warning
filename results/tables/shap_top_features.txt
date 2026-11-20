@@ -1,0 +1,20 @@
+Practice 2
+Test 1
+Practice 1
+Attendance Rate
+Satisfaction (EWTA Linear Trend)
+Frustration Streak
+Workload (EWTA Std)
+Diff-Mot Gap (EWTA Mean)
+Satisfaction (Mean)
+Response Rate
+Effort (EWTA Linear Trend)
+Difficulty (Mean)
+Workload (Mean)
+Frustration (Count)
+Engagement (EWTA Decay)
+Workload (Linear Trend)
+Workload (EWTA Linear Trend)
+Workload (EWTA Mean)
+Frustration (Mean)
+Frustration (Linear Trend)

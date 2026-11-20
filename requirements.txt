@@ -1,0 +1,11 @@
+# Target environment: Linux x86_64, Python >=3.12,<3.13, CUDA 12.8 (cu128)
+--extra-index-url https://download.pytorch.org/whl/cu128
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
+xgboost==3.0.1
+torch==2.10.0+cu128
+shap==0.52.0
+matplotlib==3.10.7
+seaborn==0.13.2

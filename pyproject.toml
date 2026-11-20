@@ -1,0 +1,8 @@
+[project]
+name = "affective-trajectory-early-warning"
+version = "1.0.0"
+description = "Longitudinal affective trajectory feature engineering and cross-cohort academic performance prediction."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = { file = "LICENSE" }
+

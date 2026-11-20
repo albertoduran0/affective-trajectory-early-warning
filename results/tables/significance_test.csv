@@ -1,0 +1,7 @@
+comparison,delta_R2,ci_95_low,ci_95_high,p_value,significance
+ATEW-XGB vs Neural-Symbolic,0.072,0.021,0.122,0.0002,***
+ATEW-XGB vs Seq-Pattern-Mining,0.095,0.046,0.115,< 0.0002,***
+ATEW-XGB vs BiLSTM-Extractor,0.156,0.062,0.177,0.0012,**
+ATEW-XGB vs Static-XGB,0.253,0.149,0.308,< 0.0002,***
+ATEW-XGB vs Academic-Only,0.255,0.132,0.363,< 0.0002,***
+ATEW-XGB vs Grades-LR,0.302,0.137,0.321,< 0.0002,***

@@ -1,0 +1,8 @@
+Method,Training_Time_sec,Inference_Cohort_ms
+Grades-LR,0.1831,1.1262
+Academic-Only,1.0497,5.6727
+Static-XGB,1.3161,4.2603
+Seq-Pattern-Mining,2.7993,4.0851
+Neural-Symbolic,2.7801,4.1202
+ATEW-XGB (Ours),5.8443,4.1913
+BiLSTM-Extractor,26.8149,7.3650

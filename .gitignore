@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+.pytest_cache/
+.vscode/
+.idea/
+*.swp
+~$*
+
+# Dataset files hosted on Zenodo (DOI: 10.5281/zenodo.23403842)
+data/cohort_1/
+data/cohort_2/
+
+# Safe default output folder when running without --overwrite
+results/rerun/

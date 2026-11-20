@@ -1,0 +1,21 @@
+Section,Metric,Cohort_I_24_25,Cohort_II_25_26
+Cohort Characteristics,Students,73,82
+Cohort Characteristics,Gender (M / F),56 / 17,66 / 16
+Cohort Characteristics,Total Questionnaire Responses,607 / 803 (75.6%),505 / 902 (63.8% of evaluated)
+Cohort Characteristics,Final Grade (Mean ± SD),7.81 ± 1.61,7.62 ± 2.02
+Cohort Characteristics,Final Grade Median [IQR],8.26 [1.95],8.50 [2.38]
+Cohort Characteristics,Initial Failing Students (< 5.0),6 (8.2%),9 (12.5%)
+Cohort Characteristics,Excluded Students,0 (0.0%),12 (14.6%)
+Academic Grades (Mean ± SD),Practice 1 (0-10),7.86 ± 1.83,6.48 ± 1.16
+Academic Grades (Mean ± SD),Practice 2 (0-10),8.68 ± 1.53,7.88 ± 1.92
+Academic Grades (Mean ± SD),Practice 3 (0-10),8.58 ± 1.27,8.67 ± 1.26
+Academic Grades (Mean ± SD),Practice 4 (0-10),8.21 ± 1.96,7.65 ± 2.89
+Academic Grades (Mean ± SD),Test 1 (0-10),7.61 ± 2.56,7.46 ± 2.06
+Academic Grades (Mean ± SD),Test 2 (0-10),7.50 ± 1.73,7.46 ± 0.73
+Affective Items (Mean ± SD),Satisfaction (1-5),4.30 ± 0.73,4.51 ± 0.60
+Affective Items (Mean ± SD),Effort (1-5),3.25 ± 1.23,3.27 ± 1.25
+Affective Items (Mean ± SD),Motivation (1-5),3.84 ± 0.98,3.98 ± 0.89
+Affective Items (Mean ± SD),Difficulty (1-5),2.78 ± 0.90,2.86 ± 0.89
+Affective Items (Mean ± SD),Workload (1-5),3.50 ± 1.29,3.53 ± 1.18
+Affective Items (Mean ± SD),Frustration (0-2),0.57 ± 0.77,0.55 ± 0.74
+Missingness Analysis,Missing Survey Weeks vs. Final Grade,r = -0.435 (p < 0.001),Passing: 72.2% vs. Failing: 53.9%
